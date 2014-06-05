@@ -9,10 +9,10 @@ Uses:
 ----
 1. Python
 
-Author: Cem Koc
----------------
+**Author: Cem Koc**
 
 How to Use ?
+------------
 1. Open terminal
 2. Locate your .txt measurement data then provide the name as a command line arg
 3. python3 file_parser.py sample.txt
